@@ -116,6 +116,7 @@ Copyright (c) 2012 - Jeremy Long
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <github.global.server>github</github.global.server>
+        <drools.version>7.67.0.Final</drools.version>
         
         <apache.lucene.version>8.11.2</apache.lucene.version>
         <apache.ant.version>1.10.14</apache.ant.version>
