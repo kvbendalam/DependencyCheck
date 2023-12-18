@@ -375,6 +375,11 @@ Copyright (c) 2012 - Jeremy Long
       <artifactId>wiremock-jre8</artifactId>
       <version>2.32.0</version>
 <dependency>
+       <dependency>
+<groupId>org.springframework.boot</groupId>
+<artifactId>spring-boot-starter-web</artifactId>
+           <version>2.7.4</version>
+</dependency>
         <plugins>
             <plugin>
                 <groupId>org.codehaus.gmavenplus</groupId>
